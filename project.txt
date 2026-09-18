@@ -1,0 +1,7 @@
+1. download node.js
+2. npm create vite@latest
+3. npm create nazwa-projektu
+4. ls 
+5. cd nazwa-projektu
+6. run dev
+kod localhost... wpisać do przeglądarki to jest adres na którym odpali się projekt
