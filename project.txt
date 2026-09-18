@@ -5,3 +5,4 @@
 5. cd nazwa-projektu
 6. run dev
 kod localhost... wpisać do przeglądarki to jest adres na którym odpali się projekt
+npm install react-inter-dom  instalowanie routingu
