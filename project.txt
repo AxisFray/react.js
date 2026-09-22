@@ -6,3 +6,10 @@
 6. run dev
 kod localhost... wpisać do przeglądarki to jest adres na którym odpali się projekt
 npm install react-router-dom  instalowanie routingu
+
+npm create vite@latest
+- nazwa-projektu
+- React
+- Typescript + React Compiler
+- ESLint
+- Yes
